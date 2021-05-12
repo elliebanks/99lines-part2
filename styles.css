@@ -10,6 +10,9 @@ h1 {
     text-shadow: 2px 2px tomato;
     text-align: center;
 }
+.friend > h3 {
+    text-transform: uppercase;
+}
 
 .friend {
     color: tomato;
